@@ -8,7 +8,6 @@ body{
   float: left;
   width: 100%;
   background-image: linear-gradient(to right,orange,lightblue);
-
 }
 
 h1{
@@ -17,12 +16,18 @@ h1{
   font-weight: bold;
   font-family: monospace;
   display: grid;
+<<<<<<< HEAD
   background-color:white;
   text-align: center;
   padding: 30;
   color:black;
   text-shadow: 2px 2px 5px orange;
 
+=======
+  background-color:black;
+  text-align: center;
+  padding: 30;
+>>>>>>> ce1abfb265fb3f98b8a7340df75b9ae0092b7b18
 
 }
 
@@ -35,6 +40,7 @@ img{
   margin-right: auto;
   margin-top: 2%;
 }
+<<<<<<< HEAD
 
 a:hover {
   color:red;
@@ -46,3 +52,5 @@ div{
   align-content: center;
 
 }
+=======
+>>>>>>> ce1abfb265fb3f98b8a7340df75b9ae0092b7b18

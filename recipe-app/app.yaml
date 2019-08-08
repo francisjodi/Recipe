@@ -3,16 +3,6 @@ api_version: 1
 threadsafe: true
 handlers:
 - url: /images
-<<<<<<< HEAD
-  static_dir: images
-- url: /styles
-  static_dir: styles
-- url: /.*
-  script: main.app
-libraries:
-- name: jinja2
-  version: latest
-=======
  static_dir: images
 - url: /styles
  static_dir: styles
@@ -21,4 +11,3 @@ libraries:
 libraries:
 - name: jinja2
  version: latest
->>>>>>> ce1abfb265fb3f98b8a7340df75b9ae0092b7b18
