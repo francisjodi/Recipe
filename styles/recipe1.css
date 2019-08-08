@@ -1,0 +1,48 @@
+body{
+  text-align: justify;
+  font-family: sans-serif;
+  grid-template-rows: ;
+  grid-template-columns: 20%;
+  flex-direction: column;
+  color:white;
+  float: left;
+  width: 100%;
+  background-image: linear-gradient(to right,orange,lightblue);
+
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: monospace;
+  display: grid;
+  background-color:white;
+  text-align: center;
+  padding: 30;
+  color:black;
+  text-shadow: 2px 2px 5px orange;
+
+
+}
+
+img{
+  border-radius: 20px;
+  border: 2px solid #ddd;
+  width: 15%;
+  height:20%;
+  margin-left: 2%;
+  margin-right: auto;
+  margin-top: 2%;
+}
+
+a:hover {
+  color:red;
+  font-size: 150%;
+
+}
+
+div{
+  align-content: center;
+
+}
